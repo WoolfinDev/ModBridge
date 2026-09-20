@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.venv-build/
+venv/
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# ModBridge: пользовательские данные — НЕ коммитить
+config.json
+.transfer_backups/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / logs
+.idea/
+.vscode/
+*.log

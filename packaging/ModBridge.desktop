@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=ModBridge
+Comment=Download Minecraft mods from Modrinth and transfer profiles
+Exec=@EXEC@
+Icon=ModBridge
+Terminal=false
+StartupWMClass=ModBridge
+Categories=Game;Utility;
+Keywords=minecraft;modrinth;mods;
